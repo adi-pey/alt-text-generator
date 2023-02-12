@@ -10,7 +10,7 @@ body {
   max-width: 1400px;
   margin: 0 auto;
   padding: 20px 0;
-  font-family: "Roboto Mono", monospace;
+  font-family: 'Caveat', cursive;
 }
 
 .intro {
@@ -32,7 +32,7 @@ p {
 }
 
 .item.active {
-  background: #add33f;
+  background: #E0B6D4;
   font-weight: bold;
 }
 
